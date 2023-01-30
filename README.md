@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey, my name is Alisher
 
-<!--
-**SherCS/SherCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Aspiring Digital Craftsman'**
 
-Here are some ideas to get you started:
+- 🔭 Working on creating a platformer game in Unity 2D
+- 🌱 Currently learning C++
+- ⚡ Game Enthusiast looking to work with like minded people
+- 💬 Always open to collaboration feel free to shoot me a DM on Insta!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
