@@ -6,7 +6,7 @@ Aspiring Digital Craftsman
 
 I am a computer science student who's a self-proclaimed video game fanatic. When I'm not buried in code, you can find me battling it out in the virtual world. My skills in C++ and Unity are constantly evolving as I work on personal projects, with the ultimate goal of becoming a valuable member of a game development dream team.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in USA
 * ✉️  You can contact me at [alisherkhakimov61@gmail.com](mailto:alisherkhakimov61@gmail.com)
 * 🧠  I'm learning Unity 2D
 * 🤝  I'm open to collaborating on Any game related projects!
